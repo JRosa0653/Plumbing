@@ -1,0 +1,6 @@
+{
+  "name": "Your Plumbing Company",
+  "description": "Professional 24/7 emergency plumbing services, free quotes, and custom AI plumbing analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
